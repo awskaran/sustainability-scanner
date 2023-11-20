@@ -2,4 +2,4 @@
     name: Sustainability Scanner
     description: Validate AWS CloudFormation templates against AWS Well-Architected Sustainability Pillar best practices.
     entry: 'susscanner'
-    language: script
+    language: python
